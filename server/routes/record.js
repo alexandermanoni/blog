@@ -107,7 +107,7 @@ router.get("/comments/:postid", async (req, res) => {
 
     let result = createCommentList2(response.rows);
 
-    console.debug(result);
+    //console.debug(result);
     
     /*
     let rawArray = response.rows;
