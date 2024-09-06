@@ -1,5 +1,5 @@
 # config
-server/config.env
+/server/*.env
 
 # Logs
 logs
